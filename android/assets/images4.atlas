@@ -1,0 +1,646 @@
+
+images4.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+scoreBoard1
+  rotate: false
+  xy: 1, 935
+  size: 934, 80
+  orig: 934, 80
+  offset: 0, 0
+  index: -1
+gateArea
+  rotate: false
+  xy: 1, 31
+  size: 432, 902
+  orig: 432, 902
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 1, 14
+  size: 360, 15
+  orig: 360, 15
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 1, 1
+  size: 934, 11
+  orig: 934, 11
+  offset: 0, 0
+  index: -1
+indicator
+  rotate: false
+  xy: 435, 501
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+gate1b
+  rotate: false
+  xy: 869, 213
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+direction
+  rotate: false
+  xy: 435, 31
+  size: 360, 180
+  orig: 360, 180
+  offset: 0, 0
+  index: -1
+trick
+  rotate: false
+  xy: 797, 31
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cow
+  rotate: false
+  xy: 435, 283
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+extra3
+  rotate: false
+  xy: 435, 217
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+extra1
+  rotate: false
+  xy: 565, 217
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+extra0
+  rotate: false
+  xy: 565, 217
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+engBar2
+  rotate: false
+  xy: 653, 461
+  size: 180, 38
+  orig: 180, 38
+  offset: 0, 0
+  index: -1
+engBar0
+  rotate: false
+  xy: 653, 421
+  size: 180, 38
+  orig: 180, 38
+  offset: 0, 0
+  index: -1
+chick
+  rotate: false
+  xy: 653, 311
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+extra2
+  rotate: false
+  xy: 695, 245
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+
+images42.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+scoreBoard
+  rotate: false
+  xy: 1, 913
+  size: 900, 108
+  orig: 900, 108
+  offset: 0, 0
+  index: -1
+border-up
+  rotate: false
+  xy: 1, 730
+  size: 720, 181
+  orig: 720, 181
+  offset: 0, 0
+  index: -1
+border1
+  rotate: false
+  xy: 1, 577
+  size: 720, 151
+  orig: 720, 151
+  offset: 0, 0
+  index: -1
+border3
+  rotate: false
+  xy: 1, 424
+  size: 720, 151
+  orig: 720, 151
+  offset: 0, 0
+  index: -1
+border2
+  rotate: false
+  xy: 1, 271
+  size: 720, 151
+  orig: 720, 151
+  offset: 0, 0
+  index: -1
+border0
+  rotate: false
+  xy: 1, 118
+  size: 720, 151
+  orig: 720, 151
+  offset: 0, 0
+  index: -1
+gate0b
+  rotate: false
+  xy: 723, 191
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+scoreBoard2
+  rotate: false
+  xy: 1, 8
+  size: 720, 108
+  orig: 720, 108
+  offset: 0, 0
+  index: -1
+gate2b
+  rotate: false
+  xy: 871, 191
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+dig2
+  rotate: false
+  xy: 903, 913
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+engBar3
+  rotate: false
+  xy: 723, 151
+  size: 180, 38
+  orig: 180, 38
+  offset: 0, 0
+  index: -1
+engBar1
+  rotate: false
+  xy: 723, 111
+  size: 180, 38
+  orig: 180, 38
+  offset: 0, 0
+  index: -1
+dig4
+  rotate: false
+  xy: 723, 1
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+dig10
+  rotate: false
+  xy: 905, 81
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+
+images43.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+gate1
+  rotate: false
+  xy: 1, 275
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+gate0
+  rotate: false
+  xy: 149, 275
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+gate2
+  rotate: false
+  xy: 297, 275
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+gate3b
+  rotate: false
+  xy: 445, 275
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+gate3
+  rotate: false
+  xy: 593, 275
+  size: 146, 720
+  orig: 146, 720
+  offset: 0, 0
+  index: -1
+border-dn
+  rotate: false
+  xy: 1, 219
+  size: 720, 54
+  orig: 720, 54
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 741, 491
+  size: 92, 504
+  orig: 92, 504
+  offset: 0, 0
+  index: -1
+alvar
+  rotate: false
+  xy: 835, 635
+  size: 180, 360
+  orig: 180, 360
+  offset: 0, 0
+  index: -1
+horse1
+  rotate: false
+  xy: 1, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+pauseButton
+  rotate: false
+  xy: 219, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+woman1
+  rotate: false
+  xy: 437, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+goat
+  rotate: false
+  xy: 741, 273
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+cow1
+  rotate: false
+  xy: 655, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+dig3
+  rotate: false
+  xy: 835, 525
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+dig6
+  rotate: false
+  xy: 873, 163
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+dig8
+  rotate: false
+  xy: 873, 53
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+
+images44.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+nextButton
+  rotate: false
+  xy: 1, 653
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+resumeButton
+  rotate: false
+  xy: 1, 291
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+menuButton
+  rotate: false
+  xy: 363, 653
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+resetButton
+  rotate: false
+  xy: 363, 291
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+lost
+  rotate: false
+  xy: 1, 1
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+goal
+  rotate: false
+  xy: 725, 725
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+rotator
+  rotate: false
+  xy: 725, 363
+  size: 91, 360
+  orig: 91, 360
+  offset: 0, 0
+  index: -1
+rtkicker
+  rotate: false
+  xy: 818, 363
+  size: 91, 360
+  orig: 91, 360
+  offset: 0, 0
+  index: -1
+mosht
+  rotate: false
+  xy: 911, 363
+  size: 90, 360
+  orig: 90, 360
+  offset: 0, 0
+  index: -1
+donkey
+  rotate: false
+  xy: 291, 73
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+frog1
+  rotate: false
+  xy: 509, 73
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+grass1
+  rotate: false
+  xy: 727, 145
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+dig9
+  rotate: false
+  xy: 727, 35
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+sideSheep
+  rotate: false
+  xy: 837, 35
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+
+images45.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+goat1
+  rotate: false
+  xy: 1, 765
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+horse
+  rotate: false
+  xy: 1, 547
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+dog1
+  rotate: false
+  xy: 219, 765
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+snake
+  rotate: false
+  xy: 1, 329
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+snake1
+  rotate: false
+  xy: 219, 547
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 437, 765
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 1, 111
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+sticky1
+  rotate: false
+  xy: 219, 329
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 437, 547
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+sheep
+  rotate: false
+  xy: 655, 765
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 219, 111
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wolf
+  rotate: false
+  xy: 437, 329
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+donkey1
+  rotate: false
+  xy: 655, 547
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+sticky
+  rotate: false
+  xy: 437, 111
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wolfsheep
+  rotate: false
+  xy: 655, 329
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+wolf1
+  rotate: false
+  xy: 655, 111
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+dig0
+  rotate: false
+  xy: 1, 1
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+dig5
+  rotate: false
+  xy: 873, 873
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+dig1
+  rotate: false
+  xy: 111, 1
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+dig7
+  rotate: false
+  xy: 873, 763
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+
+images46.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+woman
+  rotate: false
+  xy: 1, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+agent1
+  rotate: false
+  xy: 1, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+agent
+  rotate: false
+  xy: 219, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+dog
+  rotate: false
+  xy: 219, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+cage
+  rotate: false
+  xy: 437, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+ball1
+  rotate: false
+  xy: 437, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+man1
+  rotate: false
+  xy: 655, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 655, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
