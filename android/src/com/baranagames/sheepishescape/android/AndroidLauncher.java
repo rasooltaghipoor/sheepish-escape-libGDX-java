@@ -33,7 +33,7 @@ public class AndroidLauncher extends AndroidApplication implements GameHelperLis
 		
 		//***************************** code related to billing service **************************************
 		//*****************************************************************************************************
-		 String base64EncodedPublicKey = "MIHNMA0GCSqGSIb3DQEBAQUAA4G7ADCBtwKBrwDUp3GZ5pcp3iatcQleEfEBKR2PWH/OlfYlMFZDVnc3hGiqAtDEuGOnp69lv8xC9tShy3a5YhW2GYGQ+5SH6U1BO/SQIs/GCKzHDvXFdRC/nGP8sVbN862YP7Ob/4VpmPaCLexIwAt7bENYTSg9vm1wlE+bsF7IIHzCfWNxWzX5zjYH8KI+BH27HYdQy/mRBNs9pgLeBTVP6rjp9SdUrGND6/W2BTCxMgBBtGTxRQkCAwEAAQ==";
+		 String base64EncodedPublicKey = "Add Market RSA Key Here";
 
 		// compute your public key and store it in base64EncodedPublicKey
 		mHelper = new IabHelper(this, base64EncodedPublicKey);
@@ -189,7 +189,7 @@ public class AndroidLauncher extends AndroidApplication implements GameHelperLis
 
 		@Override
 		public void submitScoreGPGS(int score) {
-			Games.Leaderboards.submitScore(gameHelper.getApiClient(), "CgkI0Ka5p9UBEAIQCA", score);
+			Games.Leaderboards.submitScore(gameHelper.getApiClient(), "Google Play Service Key", score);
 		}
 				
 		@Override
@@ -200,7 +200,7 @@ public class AndroidLauncher extends AndroidApplication implements GameHelperLis
 		@Override
 		public void getLeaderboardGPGS() {
 			if (gameHelper.isSignedIn()) {
-			    startActivityForResult(Games.Leaderboards.getLeaderboardIntent(gameHelper.getApiClient(), "CgkI0Ka5p9UBEAIQCA"), 100);
+			    startActivityForResult(Games.Leaderboards.getLeaderboardIntent(gameHelper.getApiClient(), "Google Play Service Key"), 100);
 			}
 			else if (!gameHelper.isConnecting()) {
 				loginGPGS();
@@ -219,7 +219,7 @@ public class AndroidLauncher extends AndroidApplication implements GameHelperLis
 		
 		/* public void getLeaderboradScore() {
 		    Games.Leaderboards.loadCurrentPlayerLeaderboardScore(
-		         gameHelper.getApiClient(), "CgkI0Ka5p9UBEAIQCA",  LeaderboardVariant.TIME_SPAN_ALL_TIME, 
+		         gameHelper.getApiClient(), "Google Play Service Key",  LeaderboardVariant.TIME_SPAN_ALL_TIME, 
 		         LeaderboardVariant.COLLECTION_PUBLIC).setResultCallback(new ResultCallback<Leaderboards.LoadPlayerScoreResult>() {
 		            @Override
 		            public void onResult(Leaderboards.LoadPlayerScoreResult loadPlayerScoreResult) {
@@ -229,7 +229,7 @@ public class AndroidLauncher extends AndroidApplication implements GameHelperLis
 		                        if (loadPlayerScoreResult.getScore() != null) {
 		                            score = loadPlayerScoreResult.getScore().getRawScore();
 		                        }
-		                        Games.Leaderboards.submitScore(gameHelper.getApiClient(), "CgkI0Ka5p9UBEAIQCA", ++score);
+		                        Games.Leaderboards.submitScore(gameHelper.getApiClient(), "Google Play Service Key", ++score);
 		                    }
 		                }
 		            }
